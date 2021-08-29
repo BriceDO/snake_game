@@ -10,18 +10,18 @@ body {
 }
 
 #canvas {
-    margin-top: 100px;
+    margin-top: 125px;
 }
 
 #score {
-    margin-top: 150px;
+    margin-top: 100px;
     color: #fefefe;
     font-size: 50px;
 }
 
 #recommencer {
     position: fixed;
-    top: 5%;
+    top: 2%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: #fefefe;
